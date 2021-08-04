@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ALitterst
+- 👀 I’m interested in Robotics
+- 💞️ I’m looking to collaborate on VDA 5050
+- 📫 How to reach me adrian.litterst@idealworks.com
